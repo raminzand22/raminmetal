@@ -1,6 +1,6 @@
 <?php
 
-define('BOT_TOKEN', 'توکن خود را وارد کنید');
+define('BOT_TOKEN', '330443338:AAFO0orLIhWoBWsXYE_WGOqmE4VkmV455fA');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 function apiRequestWebhook($method, $parameters) {
